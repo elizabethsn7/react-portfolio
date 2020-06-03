@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.3536d149.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.b6042be4.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.b6042be4.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.e8fbbc16.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.e8fbbc16.js.map",
+    "main.js": "/react-portfolio/static/js/main.70c0abcc.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.70c0abcc.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.28f76bdd.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.28f76bdd.js.map",
     "static/css/2.861a4379.chunk.css": "/react-portfolio/static/css/2.861a4379.chunk.css",
-    "static/js/2.bf72289f.chunk.js": "/react-portfolio/static/js/2.bf72289f.chunk.js",
-    "static/js/2.bf72289f.chunk.js.map": "/react-portfolio/static/js/2.bf72289f.chunk.js.map",
+    "static/js/2.32ac93c8.chunk.js": "/react-portfolio/static/js/2.32ac93c8.chunk.js",
+    "static/js/2.32ac93c8.chunk.js.map": "/react-portfolio/static/js/2.32ac93c8.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.e7054b590af0346df45e35b1defe0908.js": "/react-portfolio/precache-manifest.e7054b590af0346df45e35b1defe0908.js",
+    "precache-manifest.bade3ca7b233feef625ab6f1784c79c8.js": "/react-portfolio/precache-manifest.bade3ca7b233feef625ab6f1784c79c8.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.861a4379.chunk.css.map": "/react-portfolio/static/css/2.861a4379.chunk.css.map",
     "static/css/main.3536d149.chunk.css.map": "/react-portfolio/static/css/main.3536d149.chunk.css.map",
-    "static/js/2.bf72289f.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.bf72289f.chunk.js.LICENSE.txt",
+    "static/js/2.32ac93c8.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.32ac93c8.chunk.js.LICENSE.txt",
     "static/media/LizKipp.jpg": "/react-portfolio/static/media/LizKipp.1cabb9e5.jpg",
     "static/media/angular-quiz.jpg": "/react-portfolio/static/media/angular-quiz.0b88d04f.jpg",
     "static/media/App.css": "/react-portfolio/static/media/hero.8d787ddb.jpg",
@@ -22,10 +22,10 @@
     "static/media/vue-js.jpg": "/react-portfolio/static/media/vue-js.6654d099.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8fbbc16.js",
+    "static/js/runtime-main.28f76bdd.js",
     "static/css/2.861a4379.chunk.css",
-    "static/js/2.bf72289f.chunk.js",
+    "static/js/2.32ac93c8.chunk.js",
     "static/css/main.3536d149.chunk.css",
-    "static/js/main.b6042be4.chunk.js"
+    "static/js/main.70c0abcc.chunk.js"
   ]
 }
