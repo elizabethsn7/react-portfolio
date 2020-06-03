@@ -2,7 +2,7 @@
 	"name": "react_portfolio",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://github.com/elizabethsn7/react-portfolio",
+	"homepage": "https://elizabethsn7.github.io/",
 	"dependencies": {
 		"@fortawesome/fontawesome-free": "^5.13.0",
 		"@material-ui/core": "^4.9.14",
